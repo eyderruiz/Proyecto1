@@ -18,12 +18,7 @@
                     $curso = "contruccion de elementos de software 2";
                 echo "<br/><br/> estas en el curso: $curso" ?>
             </p>
-            <p>
-                En este curso aprenderaz a programar paginas web usando git.
-                <?php 
-                    $curso = "contruccion de elementos de software 2";
-                echo "<br/><br/> estas en el curso: $curso" ?>
-            </p>
+            
         </div>
             
     </div>
